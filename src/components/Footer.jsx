@@ -5,12 +5,12 @@ function Footer() {
     <>
       <footer>
         <div className="footer-links">
-          <a href="#">About</a>
-          <a href="#">Store locator</a>
-          <a href="#">FAQs</a>
-          <a href="#">News</a>
-          <a href="#">Careers</a>
-          <a href="#">Contact Us</a>
+          <p href="#">About</p>
+          <p href="#">Store locator</p>
+          <p href="#">FAQs</p>
+          <p href="#">News</p>
+          <p href="#">Careers</p>
+          <p href="#">Contact Us</p>
         </div>
       </footer>
     </>
